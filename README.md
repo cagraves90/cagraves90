@@ -5,8 +5,9 @@
 
 - 💬 Ask me about **React** and **Tailwind CSS**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/graveschelsea/](https://www.linkedin.com/in/graveschelsea/)
+- 📄 Know about my experiences:
 <p align="left">
+[https://www.linkedin.com/in/graveschelsea/](https://www.linkedin.com/in/graveschelsea/)
 <a href="https://linkedin.com/in/graveschelsea" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="graveschelsea" height="30" width="40" /></a>
 </p>
 
