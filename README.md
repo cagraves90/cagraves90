@@ -30,7 +30,7 @@
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> 
-<a href="https://threejs.org/" target="_blank" rel="noreferrer"> <img src="https://en.wikipedia.org/wiki/Three.js#/media/File:Three.js_Icon.svg" alt="threejs" width="40" height="40"/> </a> 
+<a href="https://threejs.org/" target="_blank" rel="noreferrer"> <img src="https://upload.vectorlogo.zone/logos/threejs/images/3453d6aa-b9c2-48b3-b2c1-97aa80b5525e.html" alt="threejs" width="40" height="40"/> </a> 
 
   - **Backend Development**: 
   
