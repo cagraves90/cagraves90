@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/cagraves90](https://github.com/cagraves90)
 
-- 💬 Ask me about **React** and **Tailwind CSS**
+- 💬 Ask me about **React**, **Next.js** and **Tailwind CSS**
   
 - 💬 Currently learning **Next.js** and **Three.js**
 
