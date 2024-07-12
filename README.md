@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **React**, **Next.js** and **Tailwind CSS**
   
-- 💬 Currently learning **Next.js** and **Three.js**
+- 💬 Currently learning **Next.js**, **Three.js**, and **GSAP**
 
 - 📄 Know about my experiences: [https://www.linkedin.com/in/graveschelsea/](https://www.linkedin.com/in/graveschelsea/)
 
