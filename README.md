@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chelsea</h1>
-<h3 align="center">A passionate frontend developer from Canada, relocated to New Zealand</h3>
+<h3 align="center">A junior fullstack developer, originally from Canada and now in gorgeous New Zealand</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/cagraves90](https://github.com/cagraves90)
 
@@ -9,7 +9,7 @@
 
 - 📄 Know about my experiences and current role: [https://www.linkedin.com/in/graveschelsea/](https://www.linkedin.com/in/graveschelsea/)
 
-<p>See project repos below for an example of the work completed throughout my initial training, which have been pinned. I am passionate about continuous learning, and always excited to obtain new skills in the latest technologies. </p>
+<p>See project repos above for an example of the work completed throughout my initial training, which have been pinned. I am passionate about continuous learning, and always excited to obtain new skills in the latest technologies. </p>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Languages and Tools:</b> 
 <br />
