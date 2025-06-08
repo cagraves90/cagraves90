@@ -5,9 +5,9 @@
 
 - 💬 Ask me about **React**, **Next.js** and **Tailwind CSS**
   
-- 💬 Currently learning **Next.js**, **Three.js**, and **GSAP**
+- 💬 Currently learning **C#/.NET** and **Angular**
 
-- 📄 Know about my experiences: [https://www.linkedin.com/in/graveschelsea/](https://www.linkedin.com/in/graveschelsea/)
+- 📄 Know about my experiences and current role: [https://www.linkedin.com/in/graveschelsea/](https://www.linkedin.com/in/graveschelsea/)
 
 <p>See project repos below for an example of the work completed throughout my initial training, which have been pinned. I am passionate about continuous learning, and always excited to obtain new skills in the latest technologies. </p>
 
